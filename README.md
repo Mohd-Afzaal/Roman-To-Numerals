@@ -49,30 +49,16 @@ You can convert in both directions:
 
 ## 📖 Roman Numerals Quick Reference
 
-### 🔹 Basic Symbols
-
-| Symbol | Value |
-| ------ | ----- |
-| I      | 1     |
-| V      | 5     |
-| X      | 10    |
-| L      | 50    |
-| C      | 100   |
-| D      | 500   |
-| M      | 1000  |
-
-### 🔹 Common Numbers
-
-| Number | Roman |
-| ------ | ----- |
-| 1      | I     |
-| 4      | IV    |
-| 9      | IX    |
-| 40     | XL    |
-| 90     | XC    |
-| 400    | CD    |
-| 900    | CM    |
-| 2025   | MMXXV |
+| **Symbol** | **Value** | **Example Number** | **Example Roman** |
+| ---------- | --------- | ------------------ | ----------------- |
+| I          | 1         | 1                  | I                 |
+| V          | 5         | 4                  | IV                |
+| X          | 10        | 9                  | IX                |
+| L          | 50        | 40                 | XL                |
+| C          | 100       | 90                 | XC                |
+| D          | 500       | 400                | CD                |
+| M          | 1000      | 900                | CM                |
+| —          | —         | 2025               | MMXXV             |
 
 ---
 
