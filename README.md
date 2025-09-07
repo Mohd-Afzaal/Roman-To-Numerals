@@ -67,5 +67,3 @@ You can convert in both directions:
 
 This project is licensed under the [MIT License](LICENSE).
 
-``you also want me to include a **Usage GIF/Screenshot section** in this README so it feels even more polished for GitHub?
-```
