@@ -1,4 +1,3 @@
-
 # 🏛 Roman ↔ Numbers Converter
 
 A simple, interactive Python program that converts between **Roman numerals** and **Arabic numbers**.
@@ -50,6 +49,20 @@ You can convert in both directions:
 
 ## 📖 Roman Numerals Quick Reference
 
+### 🔹 Basic Symbols
+
+| Symbol | Value |
+| ------ | ----- |
+| I      | 1     |
+| V      | 5     |
+| X      | 10    |
+| L      | 50    |
+| C      | 100   |
+| D      | 500   |
+| M      | 1000  |
+
+### 🔹 Common Numbers
+
 | Number | Roman |
 | ------ | ----- |
 | 1      | I     |
@@ -66,4 +79,3 @@ You can convert in both directions:
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
-
